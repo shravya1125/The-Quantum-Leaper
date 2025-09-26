@@ -14,11 +14,7 @@ The core of the simulation relies on the relationship between a particle's proba
 
 The probability of tunneling decreases exponentially as the barrier width (L) increases or as the energy difference (V0−E) increases.  
 
-T∝e −const⋅L⋅ 
-V 
-0
-​
- −E
+**T** ∝ e ^ [ - (constant) \* L \* sqrt(V₀ - E) ]
 ​
 
  
@@ -26,36 +22,36 @@ V
 The application uses an AI-Tutor concept (implemented in JavaScript logic) to provide specific, context-aware feedback.  
 
 1. Interactive Parameters  
-- Energy Slider (E): Control the particle's energy.  
+   - Energy Slider (E): Control the particle's energy.  
 
-- Width Slider (L): Control the barrier's thickness.  
+   - Width Slider (L): Control the barrier's thickness.  
 
-- The Calculated Probability (T) display updates instantly with every slider change.  
+   - The Calculated Probability (T) display updates instantly with every slider change.  
 
 2. Predictive Visualization (The Quantum Observer)  
 Before the player clicks "Initiate Tunnel Attempt," the system provides a probabilistic forecast:  
 
-- An overlay displays the Predicted Tunnel Probability percentage.  
+   - An overlay displays the Predicted Tunnel Probability percentage.  
 
-- The color of the prediction changes (Red for low probability, Green for high probability), giving the user an immediate visual cue about their odds.  
+   - The color of the prediction changes (Red for low probability, Green for high probability), giving the user an immediate visual cue about their odds.  
 
 3. Adaptive AI Tutor Feedback  
 The "AI Quantum Tutor Feedback" panel analyzes the result of the random roll and the player's initial inputs, providing educational commentary:  
 
-- Success Analysis: Explains why the tunnel succeeded (e.g., "Good job keeping L low!") or notes if it was a "lucky shot" despite low odds.  
+   - Success Analysis: Explains why the tunnel succeeded (e.g., "Good job keeping L low!") or notes if it was a "lucky shot" despite low odds.  
 
-- Reflection Advice: If the particle fails to tunnel, the AI specifically points out the most limiting factor (e.g., "The barrier is too thick. Try reducing Barrier Width (L).")  
+   - Reflection Advice: If the particle fails to tunnel, the AI specifically points out the most limiting factor (e.g., "The barrier is too thick. Try reducing Barrier Width (L).")  
 
 4. Real-Time Visualization  
 The particle animates its approach to the barrier. The final outcome is visualized as the particle either passes through (turns Green) or reflects back (turns Red), verifying the random, probabilistic result against the calculated odds.  
 
 ## 🚀 How to Run the Project  
 
-- Clone the Repository:  
+1. Clone the Repository:  
 
-git clone [https://github.com/your-username/the-quantum-leaper.git](https://github.com/your-username/the-quantum-leaper.git)
+   git clone [https://github.com/shravya1125/The-Quantum-Leaper.git](https://github.com/shravya1125/The-Quantum-Leaper.git)
 
-- Open the File:  
+2. Open the File:  
 Navigate to the project directory and open index.html directly in any modern web browser (Chrome, Firefox, Edge, etc.).  
 
 No server, external dependencies, or build tools are required.  
