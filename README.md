@@ -17,7 +17,11 @@ The probability of tunneling decreases exponentially as the barrier width (L) in
 **T** ∝ e ^ [ - (constant) \* L \* sqrt(V₀ - E) ]
 ​
 
- 
+## 🎮 Game Demo  
+<video src="./assets/The Quantum Leaper - Google Chrome 2025-09-26 23-46-10.mp4" width="700" autoplay loop muted controls></video>
+
+
+
 ## ✨ Key Features & AI Enhancement
 The application uses an AI-Tutor concept (implemented in JavaScript logic) to provide specific, context-aware feedback.  
 
