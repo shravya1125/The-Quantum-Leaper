@@ -18,7 +18,7 @@ The probability of tunneling decreases exponentially as the barrier width (L) in
 ​
 
 ## 🎮 Game Demo  
-<video src="assets\The Quantum Leaper - Google Chrome 2025-09-26 23-46-10.mp4" width="700" autoplay loop muted controls></video>
+<video src="https://github.com/shravya1125/The-Quantum-Leaper/blob/af163d922eadde0c34a5315d25dd57d7da10eeda/assets/The%20Quantum%20Leaper%20-%20Google%20Chrome%202025-09-26%2023-46-10.mp4" width="700" autoplay loop muted controls></video>
 
 
 
