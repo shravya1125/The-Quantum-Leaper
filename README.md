@@ -16,10 +16,9 @@ The probability of tunneling decreases exponentially as the barrier width (L) in
 
 **T** ∝ e ^ [ - (constant) \* L \* sqrt(V₀ - E) ]
 ​
-
 ## 🎮 Game Demo  
 
-
+👉 Try it live here:  [The Quantum Leaper](https://delicate-pasca-5db093.netlify.app/)  
 
 
 https://github.com/user-attachments/assets/867041ae-ea2d-47c7-85c1-fc3cc947468a
