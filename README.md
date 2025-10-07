@@ -21,9 +21,6 @@ The probability of tunneling decreases exponentially as the barrier width (L) in
 👉 Try it live here:  [The Quantum Leaper](https://delicate-pasca-5db093.netlify.app/)  
 
 
-https://github.com/user-attachments/assets/867041ae-ea2d-47c7-85c1-fc3cc947468a
-
-
 
 ## ✨ Key Features & AI Enhancement
 The application uses an AI-Tutor concept (implemented in JavaScript logic) to provide specific, context-aware feedback.  
